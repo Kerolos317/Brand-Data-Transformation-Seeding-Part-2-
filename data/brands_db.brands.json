@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "66069ff93007b006635c0245"
+  },
+  "brandName": "Ward, Hand and Ortiz",
+  "yearCreated": "1970",
+  "headquarters": "Jastside",
+  "numberOfLocations": 2132,
+  "updatedAt": {
+    "$date": "2026-05-21T14:51:30.483Z"
+  },
+  "yearFounded": 1970
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0246"
+  },
+  "brandName": "Ergonomic Frozen Bacon",
+  "yearFounded": 1600,
+  "headquarters": "Gavinstead",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2026-05-21T14:51:30.499Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0247"
+  },
+  "brandName": "Breitenberg, Greenholt and Ledner",
+  "yearFounded": 1982,
+  "headquarters": "Fort Lenna",
+  "numberOfLocations": 1000,
+  "updatedAt": {
+    "$date": "2026-05-21T14:51:30.504Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0248"
+  },
+  "brandName": "Modern Granite Fish",
+  "yearFounded": 1970,
+  "yearCreated": "1970",
+  "headquarters": "Kundebury",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2026-05-21T14:51:30.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0249"
+  },
+  "brandName": "Gorgeous Granite Pizza",
+  "headquarters": "Jonesborough",
+  "numberOfLocations": 1,
+  "yearsFounded": "1980",
+  "updatedAt": {
+    "$date": "2026-05-21T14:51:30.513Z"
+  },
+  "yearFounded": 1980
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024a"
+  },
+  "brandName": "Oriental Plastic Pants",
+  "yearFounded": 1970,
+  "yearCreated": 1970,
+  "headquarters": "Wardfort",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2026-05-21T14:51:30.518Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024b"
+  },
+  "brandName": "Refined Granite Towels",
+  "yearFounded": 1600,
+  "headquarters": "Lemkeland",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2026-05-21T14:51:30.523Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024c"
+  },
+  "brandName": "Corkery Inc",
+  "yearFounded": 1935,
+  "numberOfLocations": 9200,
+  "hqAddress": "DuBuqueburgh",
+  "brand": {},
+  "headquarters": "DuBuqueburgh",
+  "updatedAt": {
+    "$date": "2026-05-21T14:51:30.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024d"
+  },
+  "yearFounded": 1600,
+  "headquarters": "West Mylesboro",
+  "numberOfLocations": 1,
+  "brand": {
+    "name": "Licensed Concrete Tuna"
+  },
+  "brandName": "Licensed Concrete Tuna",
+  "updatedAt": {
+    "$date": "2026-05-21T14:51:30.532Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024e"
+  },
+  "brandName": "Generic Cotton Pizza",
+  "yearFounded": 1600,
+  "headquarters": "North Ralphport",
+  "numberOfLocations": 1,
+  "brand": "",
+  "updatedAt": {
+    "$date": "2026-05-21T14:51:30.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0f1c21d1bd679a902011cd"
+  },
+  "brandName": "Hansen - Dach",
+  "yearFounded": 1992,
+  "headquarters": "Considinehaven, Finland",
+  "numberOfLocations": 441,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T14:52:17.859Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T14:52:17.859Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0f1c21d1bd679a902011ce"
+  },
+  "brandName": "Skiles and Sons Historic",
+  "yearFounded": 1600,
+  "headquarters": "Palm Beach Gardens, Rwanda",
+  "numberOfLocations": 27,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T14:52:17.860Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T14:52:17.860Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0f1c21d1bd679a902011cf"
+  },
+  "brandName": "Koelpin, Mayert and Swaniawski Startup",
+  "yearFounded": 2026,
+  "headquarters": "New Zion, El Salvador",
+  "numberOfLocations": 2,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T14:52:17.860Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T14:52:17.860Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0f1c21d1bd679a902011d0"
+  },
+  "brandName": "Dach - Gislason Local",
+  "yearFounded": 2021,
+  "headquarters": "Lake Elsinore, Curacao",
+  "numberOfLocations": 1,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0f1c21d1bd679a902011d1"
+  },
+  "brandName": "Graham - Hermann Global",
+  "yearFounded": 1906,
+  "headquarters": "Twilaside, United States Minor Outlying Islands",
+  "numberOfLocations": 85964,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0f1c21d1bd679a902011d2"
+  },
+  "brandName": "The Super Extremely Long Company Name That Might Be A Full Sentence Testing The Capabilities Of The Schema",
+  "yearFounded": 1972,
+  "headquarters": "O'Harafort, New Zealand",
+  "numberOfLocations": 54,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0f1c21d1bd679a902011d3"
+  },
+  "brandName": "Hackett Group",
+  "yearFounded": 1923,
+  "headquarters": "São Paulo, Zürich & München-Gladbach",
+  "numberOfLocations": 84,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0f1c21d1bd679a902011d4"
+  },
+  "brandName": "Hackett, Gislason and Howe With Spaces",
+  "yearFounded": 1950,
+  "headquarters": "West Jessycahaven, Gabon",
+  "numberOfLocations": 80,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0f1c21d1bd679a902011d5"
+  },
+  "brandName": "Lockman, Dietrich and Block Vintage",
+  "yearFounded": 1925,
+  "headquarters": "Holdenmouth, Kenya",
+  "numberOfLocations": 114,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0f1c21d1bd679a902011d6"
+  },
+  "brandName": "Fisher, Stehr and Haag Explosive Growth",
+  "yearFounded": 2026,
+  "headquarters": "Wyoming, Saudi Arabia",
+  "numberOfLocations": 18813,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T14:52:17.861Z"
+  }
+}]
